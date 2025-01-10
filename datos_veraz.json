@@ -1,0 +1,172 @@
+[
+  {
+    "cuil": "27122776048",
+    "nombreApellido": "Desconocido",
+    "situaciones": [
+      {
+        "entidad": "BANCO INDUSTRIAL S.A.",
+        "situacion": 1
+      }
+    ]
+  },
+  {
+    "cuil": "27122776048",
+    "nombreApellido": "Desconocido",
+    "situaciones": [
+      {
+        "entidad": "BANCO INDUSTRIAL S.A.",
+        "situacion": 1
+      }
+    ]
+  },
+  {
+    "cuil": "27122776048",
+    "nombreApellido": "Desconocido",
+    "situaciones": [
+      {
+        "entidad": "BANCO INDUSTRIAL S.A.",
+        "situacion": 1
+      }
+    ]
+  },
+  {
+    "cuil": "27122776048",
+    "nombreApellido": "Desconocido",
+    "situaciones": [
+      {
+        "entidad": "BANCO INDUSTRIAL S.A.",
+        "situacion": 1
+      }
+    ]
+  },
+  {
+    "cuil": "23324512829",
+    "nombreApellido": "Desconocido",
+    "situaciones": [
+      {
+        "entidad": "MERCADOLIBRE S.R.L.",
+        "situacion": 1
+      },
+      {
+        "entidad": "TARJETAS DEL MAR S.A.",
+        "situacion": 1
+      },
+      {
+        "entidad": "PROAVALAR S.R.L",
+        "situacion": 1
+      },
+      {
+        "entidad": "BANCO DE SERVICIOS FINANCIEROS S.A.",
+        "situacion": 1
+      },
+      {
+        "entidad": "CREDICUOTAS CONSUMO S.A.",
+        "situacion": 1
+      },
+      {
+        "entidad": "BANCO PATAGONIA S.A.",
+        "situacion": 2
+      },
+      {
+        "entidad": "Waynicoin S.R.L.",
+        "situacion": 1
+      }
+    ]
+  },
+  {
+    "cuil": "20245040351",
+    "nombreApellido": "Desconocido",
+    "situaciones": [
+      {
+        "entidad": "COMPAÑIA FINANCIERA ARGENTINA S.A.",
+        "situacion": 1
+      },
+      {
+        "entidad": "FF PRIVADO GESTIÓN DE ACTIVOS IV",
+        "situacion": 5
+      }
+    ]
+  },
+  {
+    "cuil": "20306728114",
+    "nombreApellido": "Desconocido",
+    "situaciones": [
+      {
+        "entidad": "BANCO DEL SOL S.A.",
+        "situacion": 1
+      },
+      {
+        "entidad": "SANTANDER CONSUMER SA",
+        "situacion": 1
+      },
+      {
+        "entidad": "Clave Creditos S.A.",
+        "situacion": 1
+      },
+      {
+        "entidad": "Asociación Mutual de Escribanos",
+        "situacion": 1
+      },
+      {
+        "entidad": "UNION PROVINCIAL ASOCIACION MUTUAL",
+        "situacion": 5
+      }
+    ]
+  },
+  {
+    "cuil": "20276729935",
+    "nombreApellido": "Desconocido",
+    "situaciones": [
+      {
+        "entidad": "BANCO DE LA PROVINCIA DE CORDOBA S.A.",
+        "situacion": 1
+      }
+    ]
+  },
+  {
+    "cuil": "20407204310",
+    "nombreApellido": "Desconocido",
+    "situaciones": [
+      {
+        "entidad": "MERCADOLIBRE S.R.L.",
+        "situacion": 1
+      },
+      {
+        "entidad": "NARANJA DIGITAL COMPAÑÍA FINANCIERA S.A.U.",
+        "situacion": 4
+      },
+      {
+        "entidad": "BANCO HIPOTECARIO S.A.",
+        "situacion": 4
+      },
+      {
+        "entidad": "Waynicoin S.R.L.",
+        "situacion": 5
+      }
+    ]
+  },
+  {
+    "cuil": "27365592735",
+    "nombreApellido": "Desconocido",
+    "situaciones": [
+      {
+        "entidad": "MERCADOLIBRE S.R.L.",
+        "situacion": 1
+      }
+    ]
+  },
+  {
+    "cuil": "20314670990",
+    "nombreApellido": "Desconocido",
+    "situaciones": [
+      {
+        "entidad": "BANCO DE LA NACION ARGENTINA",
+        "situacion": 1
+      },
+      {
+        "entidad": "Asociación Mutual de las Fuerzas Armadas y Seguridad (AMFAYS)",
+        "situacion": 1
+      }
+    ]
+  }
+]
