@@ -206,12 +206,7 @@ const flowCurso = addKeyword(EVENTS.ACTION)
         cursoInfo,  // Envía el contenido del archivo curso.txt
         { delay: 2000 }  // Agrega un pequeño retraso para naturalidad
     )
-    .addAnswer(
-        'Aquí tienes más información sobre el curso:',
-        {
-            media: "https://gsgdev.tiendup.com/curso/chat-gpt-para-abogados-as-y-estudiantes-de-derecho"
-        }
-    )
+    
     .addAnswer( // Captura cualquier otro mensaje que envíe el usuario
         null,  // No enviamos ningún mensaje adicional aquí
         { capture: true },  // Capturamos el siguiente mensaje del usuario
@@ -223,7 +218,7 @@ const flowCurso = addKeyword(EVENTS.ACTION)
         }
     );
 
-const flowWelcome = addKeyword(['veraz','quiero recibir informacion', 'cursos', 'menu', 'información','informacion','nosis', '¡Hola! Podrías darme más información de']) // Palabras clave que activarán este flujo
+const flowWelcome = addKeyword(['veraz','quiero recibir informacion', 'cursos', 'menu', 'información','informacion','nosis','¡Hola! Podrías darme más información de']) // Palabras clave que activarán este flujo
     .addAnswer(
         "👋 ¡Bienvenido/a! 🙌\n\nSoy un 🤖 que ayuda a la doctora San German. Por favor, elige alguna de las siguientes opciones:",
         { delay: 5000 }  // Retraso para que el bot se vea más natural
