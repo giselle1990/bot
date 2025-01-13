@@ -1,25 +1,35 @@
-¡Hola! 👋
+¡Hola! Gracias por tu interés en nuestro Curso Práctico de Herramientas y Aplicaciones de Inteligencia Artificial. 🧠✨
 
-Te invitamos a nuestro curso "ChatGPT para Abogados/as y Estudiantes de Derecho", diseñado para optimizar tu práctica jurídica mediante herramientas de inteligencia artificial.
+👉 ¿De qué se trata?
+Es un curso diseñado para que aprendas a usar herramientas de Inteligencia Artificial y tecnología digital que pueden ayudarte en tu trabajo, estudios o emprendimientos. Todo se enseña de forma clara y práctica, ¡no hace falta ser experto en tecnología!
 
-¿Qué aprenderás? 📚
+📚 ¿Qué aprenderás?
 
-Módulo 1: Introducción a la Inteligencia Artificial y ChatGPT.
-Módulo 2: Uso de ChatGPT para la redacción de textos legales.
-Módulo 3: Integración de herramientas como ChatPDF y Aithor en diversas ramas del derecho.
-Módulo 4: Aplicación de IA en WhatsApp y otras herramientas útiles como TranscribeMe.
-Detalles del curso: 📝
+Clase 1: Introducción a la IA
 
-Modalidad: 100% asincrónico, accede a los contenidos en cualquier momento.
-Certificación: Al finalizar, obtendrás un certificado que acreditará tus nuevas competencias tecnológicas.
-Opciones de pago:💰
+Conceptos básicos y cómo funciona.
+Historia de la IA y su impacto en el mundo.
+Proceso de aprendizaje automático: cómo los datos se convierten en herramientas útiles.
+Clase 2: Aplicaciones prácticas con IA
 
-Pesos Argentinos: $25.000 (17% de descuento aplicado).
-Payoneer: 10 dólares.
-Medios de pago disponibles: 💳
+Uso de ChatGPT para resolver tareas, generar ideas y optimizar trabajos.
+ChatPDF: cómo extraer información clave y analizar documentos rápidamente.
+Clase 3: Automatización y productividad
 
-Transferencia bancaria.
-MercadoPago (tarjetas de crédito y débito, efectivo en puntos de pago como Pago Fácil y Rapipago).
-Para más información y para inscribirte, visita nuestro sitio web: Curso ChatGPT para Abogados/as y Estudiantes de Derecho 🌐
+Creación de un bot de WhatsApp paso a paso.
+Bot para agendar citas y manejar calendarios.
+Gestión y análisis de datos usando Pandas (herramienta de Python).
+Clase 4: Herramientas avanzadas
 
-¡No pierdas la oportunidad de llevar tu práctica legal al siguiente nivel con la ayuda de la inteligencia artificial! 🚀
+Diseño web sin código con Astro y Vercel.
+Creación de presentaciones inteligentes con Gamma.app.
+Exploración de herramientas no-code y una introducción básica a SQL.
+
+🎓 Incluye certificado oficial al finalizar el curso, ideal para tu currículum.
+
+Costo: $15.000 (PRECIO LANZAMIENTO) 
+
+📅 Duración: 6 horas en total (divididas en 4 clases).
+💻 Modalidad: 100% asincrónica, lo que te permite estudiar a tu propio ritmo desde cualquier lugar.
+
+📌 Inscripción: https://gsgdev.tiendup.com/curso/inteligencia-artificial-para-emprendedores
