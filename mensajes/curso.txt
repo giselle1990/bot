@@ -1,35 +1,29 @@
-¡Hola! Gracias por tu interés en nuestro Curso Práctico de Herramientas y Aplicaciones de Inteligencia Artificial. 🧠✨
+¡Hola! 👋🏼 Gracias por tu interés en nuestro Curso de Desafectación de Deudas en VERAZ, NOSIS y BCRA. Este curso, diseñado por la experta Dra. Giselle San Germán, está aquí para ayudarte a tomar el control de tu situación financiera. Incluye CERTIFICADO! Inversion: $20mil 
+ https://gsgdev.tiendup.com/curso/desafectacion-de-bases-de-datos-veraz-nosis-bcra
 
-👉 ¿De qué se trata?
-Es un curso diseñado para que aprendas a usar herramientas de Inteligencia Artificial y tecnología digital que pueden ayudarte en tu trabajo, estudios o emprendimientos. Todo se enseña de forma clara y práctica, ¡no hace falta ser experto en tecnología!
+Beneficios del curso:
+Recursos adicionales: Accede a videos explicativos, documentos PDF y ejemplos prácticos para implementar lo aprendido de manera efectiva.
+Acceso ilimitado: Todo el contenido está disponible en nuestra plataforma digital 24/7, para que estudies a tu propio ritmo.
+Consultas directas: Comunícate con la Dra. Giselle San Germán a través de WhatsApp para recibir asesoramiento personalizado y resolver tus dudas.
+Este curso es válido para toda la República Argentina y está diseñado tanto para individuos que buscan mejorar su situación financiera como para profesionales que desean ofrecer este servicio a sus clientes.
+Inscripción y más información:
+Para inscribirte en el curso y obtener más detalles, visita el siguiente enlace: https://gsgdev.tiendup.com/curso/desafectacion-de-bases-de-datos-veraz-nosis-bcra
 
-📚 ¿Qué aprenderás?
+Una vez inscrito, tendrás acceso a todo el material y comenzarás a transformar tu vida financiera.
 
-Clase 1: Introducción a la IA
+Si tienes alguna pregunta adicional, no dudes en responder a este mensaje. Estamos aquí para ayudarte en cada paso del camino hacia una situación financiera más saludable y libre de deudas. 
 
-Conceptos básicos y cómo funciona.
-Historia de la IA y su impacto en el mundo.
-Proceso de aprendizaje automático: cómo los datos se convierten en herramientas útiles.
-Clase 2: Aplicaciones prácticas con IA
+Módulo 1: Introducción y Ley de Datos Personales
+Aprende a proteger tu información personal y entiende tus derechos legales para manejar tus datos de forma segura.
 
-Uso de ChatGPT para resolver tareas, generar ideas y optimizar trabajos.
-ChatPDF: cómo extraer información clave y analizar documentos rápidamente.
-Clase 3: Automatización y productividad
+Módulo 2: Desafectación de Datos en VERAZ
+Sigue nuestra guía paso a paso para limpiar tu historial crediticio en VERAZ y restablecer tu reputación financiera.
 
-Creación de un bot de WhatsApp paso a paso.
-Bot para agendar citas y manejar calendarios.
-Gestión y análisis de datos usando Pandas (herramienta de Python).
-Clase 4: Herramientas avanzadas
+Módulo 3: Desafectación de Datos en NOSIS
+Descubre cómo desafectar y eliminar tus datos en NOSIS, asegurando que tu historial no te impida acceder a nuevas oportunidades.
 
-Diseño web sin código con Astro y Vercel.
-Creación de presentaciones inteligentes con Gamma.app.
-Exploración de herramientas no-code y una introducción básica a SQL.
+Módulo 4: Desafectación de Datos en BCRA
+Aprende a limpiar tus registros en BCRA y cómo solicitar tu historial completo. Este módulo incluye estrategias para mantener tus datos actualizados y sin errores.
 
-🎓 Incluye certificado oficial al finalizar el curso, ideal para tu currículum.
-
-Costo: $15.000 (PRECIO LANZAMIENTO) 
-
-📅 Duración: 6 horas en total (divididas en 4 clases).
-💻 Modalidad: 100% asincrónica, lo que te permite estudiar a tu propio ritmo desde cualquier lugar.
-
-📌 Inscripción: https://gsgdev.tiendup.com/curso/inteligencia-artificial-para-emprendedores
+Módulo 5: Cómo Conseguir Clientes
+Transforma este conocimiento en una oportunidad de negocio. Te mostraremos cómo captar clientes y expandir tu red profesional en el sector financiero.
